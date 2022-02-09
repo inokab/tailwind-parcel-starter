@@ -6,7 +6,7 @@ Clone the project and install the dependencies:
 
 ```
 git clone https://github.com/inokab/tailwind-parcel-starter.git
-npm i  
+npm install
 ```
 Run the app
 
